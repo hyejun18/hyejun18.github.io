@@ -1,0 +1,108 @@
+- name: Hyeshik Chang
+  name_abbr: H. Chang
+  photo: hschang-thumb.jpg
+  info: Principal Investigator
+  email: hyeshik@snu.ac.kr
+  intro: A computational biologist loving molecules and numbers
+  link: hyeshik-chang
+  category: principal-investigator
+  active: true
+
+- name: Ari Hong
+  name_abbr: A. Hong
+  photo: arihong-thumb.jpg
+  info: Graduate Student
+  email: elly924@snu.ac.kr
+  intro: Decoding the codes controlling translation
+  link: ari-hong
+  category: student
+  active: true
+
+- name: Hanju Lee
+  name_abbr: H. Lee
+  photo: hjlee-thumb.jpg
+  email: dlgks224@snu.ac.kr
+  info: Graduate Student
+  intro: "Tracking the evolution of the molecular rules of <i>Coronaviridae</i>"
+  link: hanju-lee
+  category: student
+  active: true
+
+- name: Heeseung Yoo
+  name_abbr: H. Yoo
+  photo: hsyoo-thumb.jpg
+  email: yhs252525@snu.ac.kr
+  info: Graduate Student
+  intro: "Developing an algorithm that detect RNA sites augmented by chemical adducts"
+  link: heeseung-yoo
+  category: student
+  active: true
+
+- name: Hyun Ju Sung
+  name_abbr: H. J. Sung
+  photo: hjsung-thumb.jpg
+  email: amp930712@gmail.com
+  info: Graduate Student
+  intro: Devising a novel method of nanopore sequencing to detect RNA modification
+  link: hyunju-sung
+  category: student
+  active: true
+
+- name: Junsoo Kim 
+  name_abbr: J. Kim
+  photo: jskim-thumb.jpg
+  email: junsoopablo@snu.ac.kr
+  info: Graduate Student
+  intro: "Deciphering the architecture of infectious diseases by combining insights from high-throughput <i>omics</i> technologies"
+  link: junsoo-kim
+  category: student
+  active: true
+
+- name: Keewon Sung
+  name_abbr: K. Sung
+  photo: kwsung-thumb.jpg
+  email: alkwemi0429@snu.ac.kr
+  info: "Postdoctoral Fellow"
+  intro: "Inventing a breakthrough technique for nanopore RNA sequencing"
+  link: keewon-sung
+  category: postdoc
+  active: true
+
+- name: Seungbeom Han
+  name_abbr: S. Han
+  photo: sbhan-thumb.jpg
+  email: hansb@snu.ac.kr
+  info: Graduate Student
+  intro: Decoding the codes controlling translation
+  link: seungbeom-han
+  category: student
+  active: true
+
+- name: Yoojung Han
+  name_abbr: Y. Han
+  photo: yjhan-thumb.jpg
+  email: hanyj0823@snu.ac.kr
+  info: Graduate Student
+  intro: Developing a new technique to prepare high-accuracy nanopore signal models
+  link: yoojung-han
+  category: student
+  active: true
+
+- name: Hyemyung Lee
+  name_abbr: H. Lee
+  photo: hmlee-thumb.jpg
+  email: hyemyung@snu.ac.kr
+  info: Administrative Specialist
+  link: hyemyung-lee
+  category: support
+  active: true
+
+- name: Yongkuk Choi
+  name_abbr: Y. Choi
+  photo: ykchoi-thumb.jpg
+  email: ykchoi624@gmail.com
+  info: Research Associate
+  intro: Providing an extra hand for various projects
+  link: yongkuk-choi
+  category: research-assistant
+  active: true
