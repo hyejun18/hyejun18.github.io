@@ -1,7 +1,7 @@
 ---
 title: "News"
 layout: textlay
-excerpt: "Chang Lab at Seoul National University."
+excerpt: "Narry Kim Lab at Seoul National University."
 sitemap: false
 permalink: /allnews.html
 ---

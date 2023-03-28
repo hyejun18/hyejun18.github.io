@@ -1,7 +1,7 @@
 ---
-title: "CHANGlab - Publications"
+title: "Narry Kim Lab - Publications"
 layout: gridlay
-excerpt: "CHANGlab -- Publications."
+excerpt: "Narry Kim Lab -- Publications."
 sitemap: false
 permalink: /publications/
 ---

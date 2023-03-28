@@ -1,7 +1,7 @@
 ---
-title: "CHANGlab - Team"
+title: "Narry Kim Lab - Team"
 layout: gridlay
-excerpt: "CHANGlab: Team members"
+excerpt: "Narry Kim Lab: Team members"
 sitemap: false
 permalink: /team/
 ---

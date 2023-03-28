@@ -1,7 +1,7 @@
 ---
-title: "CHANGlab - Pictures"
+title: "Narry Kim Lab - Pictures"
 layout: piclay
-excerpt: "CHANGlab -- Pictures"
+excerpt: "Narry Kim Lab -- Pictures"
 permalink: /pictures/
 ---
 

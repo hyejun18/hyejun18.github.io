@@ -1,5 +1,5 @@
 ---
-title: "CHANGlab - Openings"
+title: "Narry Kim Lab - Openings"
 layout: textlay
 excerpt: "Openings"
 sitemap: false

@@ -1,7 +1,7 @@
 ---
-title: "CHANGlab - Research"
+title: "Narry Kim Lab - Research"
 layout: textlay
-excerpt: "CHANGlab -- Research"
+excerpt: "Narry Kim Lab -- Research"
 sitemap: false
 permalink: /research/
 ---

@@ -6,10 +6,10 @@
 # 'jekyll serve'. If you change this file, please restart the server process.
 
 # Site settings
-title: The Chang Lab
+title: Narry Kim Lab
 email: hyeshik@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  Hyeshik Chang's quantitative biology laboratory in School of Biological
+  Narry Kim's RNA Biology Laboratory in School of Biological
   Sciences at Seoul National University, South Korea.
 baseurl: ""
 url: ""

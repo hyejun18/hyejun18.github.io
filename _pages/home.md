@@ -1,7 +1,7 @@
 ---
-title: "CHANGlab - Home"
+title: "Narry Kim Lab - Home"
 layout: homelay
-excerpt: "Chang Lab at Seoul National University."
+excerpt: "Narry Kim Lab at Seoul National University."
 sitemap: false
 permalink: /
 ---
