@@ -21,13 +21,14 @@ $brand-info:            #75CAEB !default;
 $brand-warning:         #FF851B !default;
 $brand-danger:          #FF4136 !default;
 
+$ibs-red:               #C22E0C !default;
 
 //== Scaffolding
 //
 //## Settings for some of the most global styles.
 
 //** Background color for `<body>`.
-$body-bg:               #0a1922 !default;
+$body-bg:               $ibs-red !default;
 //** Global text color on `<body>`.
 $text-color:            $gray !default;
 
@@ -366,12 +367,12 @@ $navbar-padding-vertical:          (($navbar-height - $line-height-computed) / 2
 $navbar-collapse-max-height:       340px !default;
 
 $navbar-default-color:             $text-color !default;
-$navbar-default-bg:                #0a1922 !default;
+$navbar-default-bg:                $ibs-red !default;
 $navbar-default-border:            transparent !default;
 
 // Navbar links
-$navbar-default-link-color:                #aaa !default;
-$navbar-default-link-hover-color:          #888 !default;
+$navbar-default-link-color:                #FFF !default;
+$navbar-default-link-hover-color:          #ffff00 !default;
 $navbar-default-link-hover-bg:             transparent !default;
 $navbar-default-link-active-color:         $navbar-default-link-hover-color !default;
 $navbar-default-link-active-bg:            transparent !default;
@@ -380,7 +381,7 @@ $navbar-default-link-disabled-bg:          transparent !default;
 
 // Navbar brand label
 $navbar-default-brand-color:               white !default;
-$navbar-default-brand-hover-color:         #888 !default;
+$navbar-default-brand-hover-color:         #ffff00 !default;
 $navbar-default-brand-hover-bg:            transparent !default;
 
 // Navbar toggle
@@ -711,7 +712,7 @@ $panel-border-radius:         $border-radius-base !default;
 
 //** Border color for elements within panels
 $panel-inner-border:          transparent !default;
-$panel-footer-bg:             #0a1922 !default;
+$panel-footer-bg:             $ibs-red !default;
 
 $panel-default-text:          #eee !default;
 $panel-default-border:        transparent !default;
