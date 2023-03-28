@@ -3,7 +3,7 @@ title: "Narry Kim Lab - Home"
 layout: homelay
 excerpt: "Narry Kim Lab at Seoul National University."
 sitemap: false
-permalink: /
+permalink: /home
 ---
 
 We are reverse-engineers. Our goal is to unravel the intricate mechanisms
